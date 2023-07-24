@@ -1,0 +1,32 @@
+html{
+  margin:0;  
+  padding:0;
+  overflow: hidden;
+  align-items: center;
+}
+
+.carrer{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+}
+
+.carrer-1{
+    background-color: blue;
+     text-align: center;
+}
+
+.carrer-2{
+    background-color: red;
+}
+
+.carrer-3{
+    background-color: green;
+}
+
